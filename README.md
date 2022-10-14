@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Habib
+- 👋 Hi, I’m Habib Muhammad
 - 👀 I’m interested in Java, Python, Spring Framework, Flask, FastApi, Microservices, Graphql, Web3
 - 🌱 I’m currently learning Graphql in Spring, FastApi
 - 💞️ I’m looking to collaborate on any project written in Java, Python in FinTech and Ecommerce
